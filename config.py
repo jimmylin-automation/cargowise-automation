@@ -1,3 +1,3 @@
 TEMPLATE_PATH = "assets/eta_field.png"
 MATCH_THRESHOLD = 0.8
-DATE_TO_ENTER = "15-3"
+DATE_TO_ENTER = "20-4"
